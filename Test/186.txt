@@ -1,0 +1,2 @@
+(NIL NIL NIL NIL NIL (3 5) NIL (7 5) NIL (9 5) (4 9) (9 3) (6 12 10) NIL (4 14)
+ NIL (16 7))
